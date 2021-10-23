@@ -8,7 +8,7 @@ body {
   body::before {
     content: "";
     position: fixed;
-    background: #040404 url("../img/bg.jpg") top right no-repeat;
+    background: #040404 url("images/clay-banks-hwLAI5lRhdM-unsplash.png")top right no-repeat;
     background-size: cover;
     left: 0;
     right: 0;
@@ -58,9 +58,10 @@ body {
     line-height: 1;
     font-weight: 700;
     font-family: "Poppins", sans-serif;
+    
   }
   #header h1 a, #header h1 a:hover {
-    color: #fff;
+    color: #35e888
     line-height: 1;
     display: inline-block;
   }
